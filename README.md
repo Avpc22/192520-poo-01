@@ -22,9 +22,12 @@ Read the UML diagram and implement it in **Java** using encapsulation and overlo
 Write a short paragraph (5–8 sentences) in English:  
 👉 *How did you apply your own learning strategies to solve this exam? Mention one difficulty and how you solved it.*
 
+reflection: para estudiar para el parcial, tuve que volver a leer un pooc de teoria ya que necesitaba calrar dudas y tener claros los conceptos básicos ya que me cuestan. por otra parte yo traté de hacer ejercicios tomando un uml y hacer el respectivo código teniendo ciertas dificultades con la implementaciuon de los metodos, pero dí por aprendido el uso de los get y set, además la buena modularización del código.
+
 ---
 
 ## Evaluation Criteria
 - **UML implementation in Java (attributes, constructors, methods):** 50%  
 - **Objects created and tested in `Main`:** 20%  
 - **Reflection** 30%  
+
